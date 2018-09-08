@@ -6,5 +6,7 @@ RDSの設定情報など機密性のある情報をGitHubにアップロード�
 
 最終的に画面に表示できれば成功
 サンプルで使用するデータは
+
 https://dev.mysql.com/doc/employee/en/employees-installation.html
+
 のデータをマイグレーションして使う
